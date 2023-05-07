@@ -1,0 +1,6 @@
+{
+	"run_format" : ["../examples/vuln", "stdin"],
+	"sources":["main"],
+	"sinks":["gets", "strcpy"],
+	"exec" : "win"
+}
