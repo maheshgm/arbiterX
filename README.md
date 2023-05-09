@@ -25,6 +25,6 @@ python main.py -f vuln.elf -t template.json
 Look at the example template for better understanding.
 
 ## What it can do currently:
-ArbiterX can find and generate an exploit for buffer overflows. The exploit generated will execute the target function present in the binary. With minor modification to the code can get a shell also (return to libc Attack).
+ArbiterX can find and generate an exploit for buffer overflows. The exploit generated will execute the target function present in the binary. With minor modification to the code can get a shell also (return to libc).
 
 ## Example:
